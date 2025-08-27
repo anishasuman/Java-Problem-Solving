@@ -1,0 +1,126 @@
+
+
+## 🗓️ 20-Day DSA Timetable (Java Focus)
+
+### **Phase 1: Basics of Arrays (Day 1–7)**
+
+**Day 1 – Introduction**
+
+* What is Array? Why needed?
+* Declare, Initialize, Input/Output in Java.
+  👉 Practice: Take array input and print in reverse.
+
+**Day 2 – Traversal & Updating**
+
+* Insert / Delete element (manual shifting).
+* Searching: Linear Search.
+  👉 Practice: Find min & max in array.
+
+**Day 3 – Array Properties**
+
+* Array length, Indexing, Out of bounds error.
+* Frequency count of elements.
+  👉 Practice: Count frequency of a given number.
+
+**Day 4 – Problems on Arrays**
+
+* Sum of array, Average, Prefix sum.
+  👉 Practice: Running sum of array.
+
+**Day 5 – Array Reversal & Rotations**
+
+* Reverse array (two-pointer).
+* Left/Right rotation by d places.
+  👉 Practice: Rotate by 1, Rotate by k.
+
+**Day 6 – Searching Basics**
+
+* Linear Search revision.
+* Binary Search (on sorted array).
+  👉 Practice: Find element index using binary search.
+
+**Day 7 – More Binary Search**
+
+* First & Last occurrence.
+* Count occurrences.
+  👉 Practice: Lower bound / Upper bound style problems.
+
+---
+
+### **Phase 2: Sorting (Day 8–12)**
+
+**Day 8 – Bubble Sort**
+
+* Concept & code in Java.
+* Practice with small arrays.
+
+**Day 9 – Selection Sort**
+
+* Compare with bubble.
+  👉 Practice: Sort array of strings.
+
+**Day 10 – Insertion Sort**
+
+* Good for small datasets.
+  👉 Practice: Sort array partially.
+
+**Day 11 – Merge Sort (Divide & Conquer)**
+
+* Learn recursion + merging two arrays.
+  👉 Practice: Merge two sorted arrays.
+
+**Day 12 – Quick Sort (Partitioning)**
+
+* Basic Lomuto partition.
+  👉 Practice: Sort array of negatives/positives.
+
+---
+
+### **Phase 3: Array Problem Solving (Day 13–17)**
+
+**Day 13 – Subarrays & Prefix**
+
+* Print all subarrays.
+* Max sum subarray (Kadane’s).
+
+**Day 14 – Sliding Window Basics**
+
+* Fixed window sum.
+* Largest subarray with sum ≤ k.
+
+**Day 15 – Two-Pointer Technique**
+
+* Pair sum problem.
+* Move negatives to one side.
+
+**Day 16 – Hashing with Arrays**
+
+* Frequency array.
+* Intersection/Union of two arrays.
+
+**Day 17 – Searching in Rotated Sorted Array**
+
+* Modified binary search.
+  👉 Practice: Leetcode “Search in Rotated Sorted Array”.
+
+---
+
+### **Phase 4: 2D Arrays (Day 18–20)**
+
+**Day 18 – Basics of 2D**
+
+* Declare, input, output.
+* Row sum, Column sum.
+
+**Day 19 – Traversal**
+
+* Spiral print.
+* Diagonal sum.
+
+**Day 20 – Matrix Problems**
+
+* Search in sorted matrix.
+* Rotate matrix by 90°.
+
+---
+
